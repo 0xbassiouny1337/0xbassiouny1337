@@ -1,8 +1,7 @@
 <div align="center">
   <h1>👋 Hello, I'm Nour El Dien Hisham!</h1>
   <p>Passionate about web security, OSINT, and malware development.</p>
-  <br>
-  <br>
+
   <br>
   <p>
     <a href="https://www.linkedin.com/in/nour-el-dien-bassiouny-054674250/">LinkedIn</a> |
@@ -27,6 +26,4 @@ I'm always open to connect and collaborate on exciting projects. Let's stay in t
 🌐 LinkedIn: Connect with me on LinkedIn.
 📧 Email: Feel free to send me an email.
 🐦 Twitter: Follow me on Twitter for updates and insights.
-<div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fpython3&psig=AOvVaw2PPwzkozHM6Sk8dI56Y_BJ&ust=1687833506431000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjNpamB4P8CFQAAAAAdAAAAABAE" alt="python" width="400">
-</div>
+

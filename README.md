@@ -2,7 +2,6 @@
   <h1>👋 Hello, I'm Nour El Dien Hisham!</h1>
   <p>Passionate about web security, OSINT, and malware development.</p>
   <br>
-  <img src="https://drive.google.com/file/d/1n7Z8r2QV8VQnrDVU3eK5n5fGoG3PICLq/view?usp=sharing" alt="Profile Image">
   <br>
   <br>
   <p>

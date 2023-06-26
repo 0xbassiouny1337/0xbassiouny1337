@@ -16,7 +16,14 @@ About Me
 
 🔒 Beyond web security, I am deeply interested in OSINT (Open-Source Intelligence) and malware development. I believe in the power of information and its impact on securing digital systems.
 
+📚 Here are some of the courses I have completed:
 
+EWPT (eLearnSecurity Web Application Penetration Testing)
+EJPT (eLearnSecurity Junior Penetration Tester)
+CEH (Certified Ethical Hacker)
+Network+
+LINU101 (Linux Fundamentals)
+EWPTX (eLearnSecurity Web Exploitation Extreme)
 
 Feel free to explore my repositories to discover more about my projects and contributions!
 

@@ -32,5 +32,5 @@ I'm always open to connect and collaborate on exciting projects. Let's stay in t
 
 🌐 LinkedIn: Connect with me on LinkedIn.
 📧 Email: Feel free to send me an email.
-🐦 Twitter: Follow me on Twitter for updates and insights.
+
 

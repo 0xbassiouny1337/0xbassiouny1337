@@ -12,7 +12,7 @@
 About Me
 🎓 I am an 19-year-old driven individual with a deep passion for cyber security. Since the age of 16, I have been exploring the fascinating world of web security, constantly seeking opportunities to enhance my skills and knowledge.
 
-💼 Currently, I work as a Web Penetration Tester and Bug Hunter, focusing on securing web applications and conducting vulnerability assessments. My skillset includes PHP, MySQL, JavaScript, HTML, and Python for web development.
+💼 Currently, I work as a Web Penetration Tester and Bug Hunter, focusing on securing web applications and conducting vulnerability assessments. My skillset includes PHP, MySQL, JavaScript, HTML, and Flaskl for web development.
 
 🔒 Beyond web security, I am deeply interested in OSINT (Open-Source Intelligence) and malware development. I believe in the power of information and its impact on securing digital systems.
 

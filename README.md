@@ -18,12 +18,11 @@ About Me
 
 📚 Here are some of the courses I have completed:
 
-EWPT (eLearnSecurity Web Application Penetration Testing)
-EJPT (eLearnSecurity Junior Penetration Tester)
-CEH (Certified Ethical Hacker)
-Network+
-LINU101 (Linux Fundamentals)
-EWPTX (eLearnSecurity Web Exploitation Extreme)
+eWPT (eLearnSecurity Web Application Penetration Testing)
+eJPTv2 (eLearnSecurity Junior Penetration Tester)
+eWPTX (eLearnSecurity Web Exploitation Extreme)
+eCPPT 
+OSCP 
 
 Feel free to explore my repositories to discover more about my projects and contributions!
 

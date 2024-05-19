@@ -35,5 +35,5 @@ I'm always open to connect and collaborate on exciting projects. Let's stay in t
 
 <div align="center">
   <img src="https://t3.ftcdn.net/jpg/03/48/49/38/240_F_348493838_88NKq5G4rA3F32WfaqgLfRzY4ilyxazw.jpg" alt="Hacker Logo" style="margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/computer.png" alt="Computer Logo">
+
 </div>

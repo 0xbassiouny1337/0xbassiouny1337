@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hello, I'm Nour El Dien Hisham!</h1>
-  <p>Passionate about web security, OSINT, and malware development.</p>
+  <p>Passionate about web security, Network,Android, Desktop and malware & Exploit development.</p>
 
   <br>
   <p>
@@ -10,7 +10,7 @@
   </p>
 </div>
 About Me
-🎓 I am an 18-year-old driven individual with a deep passion for cyber security. Since the age of 16, I have been exploring the fascinating world of web security, constantly seeking opportunities to enhance my skills and knowledge.
+🎓 I am an 19-year-old driven individual with a deep passion for cyber security. Since the age of 16, I have been exploring the fascinating world of web security, constantly seeking opportunities to enhance my skills and knowledge.
 
 💼 Currently, I work as a Web Penetration Tester and Bug Hunter, focusing on securing web applications and conducting vulnerability assessments. My skillset includes PHP, MySQL, JavaScript, HTML, and Python for web development.
 
@@ -29,7 +29,5 @@ Feel free to explore my repositories to discover more about my projects and cont
 Connect with Me
 I'm always open to connect and collaborate on exciting projects. Let's stay in touch and make the digital world a safer place together!
 
-🌐 LinkedIn: Connect with me on LinkedIn.
-📧 Email: Feel free to send me an email.
 
 

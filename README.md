@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hello, I'm Nour El Dien Bassiouny!</h1>
-  <p>Passionate about web security, Network, Android, Desktop, and malware & exploit development.</p>
+  <p>Passionate about web security, Network, Thick client, AD Pentesting and malware & exploit development.</p>
   <br>
   <p>
     <a href="https://www.linkedin.com/in/nour-el-dien-bassiouny-054674250/">
@@ -11,7 +11,7 @@
     </a>
   </p>
 </div>
-About Me
+### About Me
 <div align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Logo" style="margin-right: 10px;">
   <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux Logo">

@@ -16,11 +16,11 @@
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Logo" style="margin-right: 10px;">
   <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux Logo">
 </div>
-🎓 I am a 19-year-old driven individual with a deep passion for cybersecurity. Since the age of 16, I have been exploring the fascinating world of web security, constantly seeking opportunities to enhance my skills and knowledge.
+🎓 I am a 20-year-old driven individual with a deep passion for cybersecurity. Since the age of 16, I have been exploring the fascinating world of web security, constantly seeking opportunities to enhance my skills and knowledge.
 
-💼 Currently, I work as a Web Penetration Tester and Bug Hunter, focusing on securing web applications and conducting vulnerability assessments. My skillset includes PHP, MySQL, JavaScript, HTML, and Flask for web development.
+💼 Currently, I work as a Penetration Tester, focusing on securing web applications and conducting vulnerability assessments. My skillset includes PHP, MySQL, JavaScript, HTML, and Flask for web development.
 
-🔒 Beyond web security, I am deeply interested in OSINT (Open-Source Intelligence) and malware development. I believe in the power of information and its impact on securing digital systems.
+🔒 Beyond web & Network security, I am deeply interested in IOT , Desktop app pentesting and malware development. I believe in the power of information and its impact on securing digital systems.
 
 📚 Courses Completed
 eWPT (eLearnSecurity Web Application Penetration Testing)

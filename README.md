@@ -4,8 +4,8 @@
 
 ### Passionate about Cybersecurity & Ethical Hacking
 
-🔹 Specialized in **Web Security, Network, Thick Client, AD Pentesting**  
-🔹 Experienced in **Malware & Exploit Development**
+🔹 Specialized in **Web Security, Network, AD Pentesting**  
+🔹 Passionate abouttt **Malware & Exploit Development**
 
 ---
 

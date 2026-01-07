@@ -1,18 +1,18 @@
 <div align="center">
 
-# 👋 Hello, I'm Nour El Dien Bassiouny!
+# 👋 Hello, I'm Nour El Dien Bassiouny
 
-### Passionate about Cybersecurity & Ethical Hacking
+### Cyber Security Specialist | Penetration Tester | Offensive Security
 
-🔹 Specialized in **Web Security, Network, AD Pentesting**  
-🔹 Passionate abouttt **Malware & Exploit Development**
+🔹 **Web, Network, Active Directory, OT & Wi-Fi Pentesting**  
+🔹 Strong interest in **Malware, Exploit Development & Red Teaming**
 
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nour-el-dien-bassiouny-054674250/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nourbassiouny.official@gmail.com)  
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/fl/bassiouny1337?mp_source=share)  
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/users/1945638)
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/1945638)
 
 </div>
 
@@ -20,37 +20,90 @@
 
 ## 📌 About Me
 
-🎓 **Who am I?**  
-I'm a **20-year-old penetration tester** with a deep passion for cybersecurity. I started my journey at **16 years old**, constantly exploring new attack vectors and techniques. My primary focus is on **Web, Network, and Active Directory (AD) Pentesting**, but I also have experience in:
-- **Android & Mobile App Security**
-- **Cloud Security**
-- **Desktop Application Pentesting**
+👨‍💻 **Who am I?**  
+I am a **Cyber Security Specialist and Penetration Tester** with hands-on experience across a wide range of environments, including **sensitive and high-risk domains**. I began my cybersecurity journey at the age of **16**, driven by a strong passion for offensive security, vulnerability research, and real-world attack simulations.
+
+My core expertise includes:
+- **Web Application Penetration Testing**
+- **Network & Active Directory (AD) Pentesting**
+- **Desktop & Thick Client Security**
+- **OT & Industrial Control Systems (ICS) Security**
+- **Wi-Fi & Wireless Attacks**
+- **Cloud & Mobile Application Security**
+- **AI/ML Security**
 - **Exploit & Malware Development**
-- **Software & Automation Development**
-
-💻 **What I do?**  
-- Perform security assessments & pentests
-- Develop custom exploits & automation scripts
-- Research vulnerabilities and security flaws
 
 ---
 
-## 📚 Certifications & Courses
+## 🛠️ Professional Experience
 
-✅ **eWPT** – eLearnSecurity Web Application Penetration Testing  
-✅ **eJPTv2** – eLearnSecurity Junior Penetration Tester  
-✅ **eWPTXv2** – eLearnSecurity Web Exploitation Extreme  
-✅ **eCPPT** – Certified Professional Penetration Tester  
+🔐 Through numerous penetration testing engagements, I have developed strong experience in delivering **high-quality security assessments** and **professional reports** aligned with industry-recognized frameworks such as:
+
+- **MITRE ATT&CK**
+- **OWASP Top 10**
+- **OWASP ASVS**
+
+My reports focus on:
+- Clear and structured vulnerability descriptions  
+- Accurate impact and risk assessment  
+- Practical, actionable remediation steps  
+- Effective communication with **developers, technical teams, and stakeholders**
+
+
+---
+
+## 💻 Development & Code Review Skills
+
+In addition to offensive security, I have hands-on development experience and perform **secure code reviews** using:
+
+- **Backend & Frameworks:**  
+  - Node.js  
+  - Laravel  
+  - ASP.NET  
+
+- **Programming & Scripting Languages:**  
+  - Python  
+  - PowerShell  
+  - Bash  
+  - C / C++  
+  - C#  
+  - Java  
+
+This background allows me to identify vulnerabilities not only from an attacker’s perspective but also from a **secure development standpoint**.
+
+---
+
+## 🎓 Certifications
+
 ✅ **OSCP** – Offensive Security Certified Professional  
+✅ **eCPPTv3** – Certified Professional Penetration Tester  
+✅ **eWPTXv2** – Web Exploitation Extreme  
+✅ **CRTA** – Certified Red Team Analyst  
+✅ **MCRTA** – Multi-Domain Certified Red Team Analyst  
+✅ **CAP** – Certified AppSec Practitioner  
+✅ **CNSP** – Certified Network Security Practitioner  
+✅ **CSCRB**   
+✅ **ICS300** – Industrial Control Systems Security 
 
 ---
 
-## 🚀 Explore My Work
+## 🚀 What You’ll Find Here
 
-🔹 Check out my repositories to see my latest security projects and research.  
-🔹 Always open for **collaborations**, **freelance opportunities**, and **CTF challenges**!  
+🔹 Offensive security tools & automation  
+🔹 Exploit development & proof-of-concepts  
+🔹 Red teaming & pentesting scripts  
+🔹 Research and learning projects  
+
+I’m always open to:
+- **Collaborations**
+- **Freelance & consulting opportunities**
+- **CTFs & research projects**
 
 ---
 
-### 📬 Connect With Me
-Let's **secure the digital world together!** Feel free to reach out anytime. 😃
+## 📬 Connect With Me
+
+Let’s work together to **secure systems before attackers do**.  
+Feel free to reach out anytime — I’m always open to meaningful discussions and new challenges.
+
+😃

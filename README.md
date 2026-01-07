@@ -75,7 +75,6 @@ This background allows me to identify vulnerabilities not only from an attacker�
 
 ## 🎓 Certifications
 
-✅ **OSCP** – Offensive Security Certified Professional  
 ✅ **eCPPTv3** – Certified Professional Penetration Tester  
 ✅ **eWPTXv2** – Web Exploitation Extreme  
 ✅ **CRTA** – Certified Red Team Analyst  
